@@ -72,7 +72,7 @@
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "^1.2.0",
-    "@modelcontextprotocol/sdk": "1.26.0",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "@redwoodjs/agent-ci": "catalog:",
     "@sinclair/typebox": "catalog:",
     "@socketregistry/packageurl-js": "catalog:",
